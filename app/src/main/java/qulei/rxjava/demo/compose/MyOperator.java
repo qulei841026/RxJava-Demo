@@ -1,4 +1,4 @@
-package qulei.rxjava.demo;
+package qulei.rxjava.demo.compose;
 
 import rx.Observable.Operator;
 import rx.Subscriber;

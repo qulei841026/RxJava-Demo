@@ -8,7 +8,7 @@ public class Main {
 //        toPublishSubject.demo();
 
         ToBehaviorSubject toBehaviorSubject = new ToBehaviorSubject();
-        toBehaviorSubject.demo2();
+        toBehaviorSubject.demo();
 
     }
 }
